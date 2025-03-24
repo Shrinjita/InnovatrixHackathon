@@ -1,0 +1,10 @@
+streamlit
+pillow
+inference-sdk
+osmnx
+networkx
+plotly
+geopy
+hashlib
+pandas
+numpy
