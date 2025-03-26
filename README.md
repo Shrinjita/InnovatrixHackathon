@@ -1,7 +1,5 @@
 # 🚀 **SmartCity+ – Sustainable Smart City Infrastructure**  
 
----
-
 ### 🌟 **1. Project Overview**
 **SmartCity+** is a sustainable smart city platform designed to optimize urban infrastructure management. The platform integrates **waste segregation**, **traffic optimization**, and **air quality monitoring** into a single, user-centric solution.  
 
