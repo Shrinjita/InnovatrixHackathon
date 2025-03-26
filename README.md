@@ -1,5 +1,4 @@
-### 🚀 **SmartCity+ – Sustainable Smart City Infrastructure**  
-**Innovatrix Hackathon – README.md**  
+# 🚀 **SmartCity+ – Sustainable Smart City Infrastructure**  
 
 ---
 
